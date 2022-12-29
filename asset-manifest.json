@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CricketScoresMemo/static/css/main.a4b88325.css",
+    "main.js": "/CricketScoresMemo/static/js/main.3c8efa98.js",
+    "index.html": "/CricketScoresMemo/index.html",
+    "main.a4b88325.css.map": "/CricketScoresMemo/static/css/main.a4b88325.css.map",
+    "main.3c8efa98.js.map": "/CricketScoresMemo/static/js/main.3c8efa98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b88325.css",
+    "static/js/main.3c8efa98.js"
+  ]
+}
