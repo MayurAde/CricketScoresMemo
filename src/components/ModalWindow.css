@@ -1,0 +1,13 @@
+.modalHeader {
+  background-color: #3c415e;
+  font-size: 20px;
+}
+.modalFooter {
+  background-color: #3c415e75;
+}
+
+.modalBody {
+  background-color: #93bcee2f;
+  color: black;
+  font-size: 20px;
+}

@@ -1,0 +1,32 @@
+* {
+  /* color: rgb(2, 2, 2); */
+  margin-top: 0;
+  padding-top: 0;
+  box-sizing: border-box;
+}
+
+.playerStats {
+  border: 2px solid black;
+  background-color: rgba(128, 128, 128, 0.65);
+  overflow: hidden;
+}
+.bold {
+  font-weight: bold;
+}
+
+.statsHeader {
+  /* background-color: rgb(238, 13, 13); */
+  position: relative;
+  right: 8px;
+  margin-top: 0;
+}
+.statsTitle {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  align-items: center;
+}
+
+.statsBody {
+  background-color: rgb(255, 255, 255);
+}

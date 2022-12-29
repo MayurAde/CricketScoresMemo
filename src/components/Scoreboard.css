@@ -1,0 +1,43 @@
+.shape {
+  background-color: #3c415e;
+
+  width: 250px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.shape:hover {
+  background-color: #3b3d49cc;
+  /* border: solid 1px pink; */
+}
+
+.comment {
+  border-top: 1px solid red;
+  background-color: rgba(26, 22, 22, 0.438);
+  
+}
+.commentsText {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.active {
+  color: red;
+  /* font-weight: bold; */
+}
+
+.inactive {
+  color: white;
+}
+.fa-edit {
+  position: relative;
+  font-weight: 500;
+  top: 10px;
+  left: 100px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.fa-edit:hover {
+  color: rgb(60, 89, 250);
+  font-weight: bold;
+}
